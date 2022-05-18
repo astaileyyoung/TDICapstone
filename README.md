@@ -7,3 +7,4 @@ I have written a series of posts on Medium about this project, which can be foun
 
 A Tableau dashboard can be found here: https://public.tableau.com/app/profile/amos.stailey.young/viz/tdi_capstone/Dashboard1
 
+This project came out of my dissertation, "On Location in Nature's Studio: Toward a Social History of Hollywood Filmmaking in the American West." For those interested, the dissertation can be found on my Academia.edu page: https://uiowa.academia.edu/AmosStaileyYoung
